@@ -1,6 +1,6 @@
 # 🚀 Hi there! I'm Joy Rzepecka 
 
-- 👷‍♀️: Hi, I’m @JoyCoffeeAddict, a Front-end developer with almost 3 years of profesionall experience.
+- 👷‍♀️: Hi, I’m @JoyCoffeeAddict, a Front-end developer with 4 years of profesionall experience.
 - 👀 I'm looking for new opportunities (both work and OSS development).
 - 🌱 I’m currently learning SolidJS and Go.
 - 💞️ In deep love with coffee and seafood.
